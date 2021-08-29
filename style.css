@@ -79,7 +79,7 @@ h1 {
 
 .split.left {
     left:0;
-    background: url('playstation.jpg');
+    background: url('bjj.jpg');
     background-repeat:no-repeat;
     background-size: cover;
 }
@@ -95,7 +95,7 @@ h1 {
 
 .split.right {
     right:0;
-    background: url('xbox.jpg');
+    background: url('mma.jpg');
     background-repeat:no-repeat;
     background-size: cover;
 }
